@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimi", "Arac_Kullanimi\Arac_Kullanimi.csproj", "{EE1664C8-CCB1-4E2E-B77D-B218D3AF8354}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari", "Arac_Kullanimlari\Arac_Kullanimlari.csproj", "{127D79C9-FF2A-43D3-95F7-1FCAC281C6DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{EE1664C8-CCB1-4E2E-B77D-B218D3AF8354}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE1664C8-CCB1-4E2E-B77D-B218D3AF8354}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE1664C8-CCB1-4E2E-B77D-B218D3AF8354}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127D79C9-FF2A-43D3-95F7-1FCAC281C6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127D79C9-FF2A-43D3-95F7-1FCAC281C6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127D79C9-FF2A-43D3-95F7-1FCAC281C6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127D79C9-FF2A-43D3-95F7-1FCAC281C6DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
