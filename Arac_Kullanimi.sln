@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari", "Arac_K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari2", "Arac_Kullanimlari2\Arac_Kullanimlari2.csproj", "{59EBC79C-0F71-4679-A6A7-D8192430108D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari3", "Arac_Kullanimlari3\Arac_Kullanimlari3.csproj", "{A0C38A42-F169-4F90-AAC9-778E77747454}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{59EBC79C-0F71-4679-A6A7-D8192430108D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59EBC79C-0F71-4679-A6A7-D8192430108D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59EBC79C-0F71-4679-A6A7-D8192430108D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C38A42-F169-4F90-AAC9-778E77747454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C38A42-F169-4F90-AAC9-778E77747454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C38A42-F169-4F90-AAC9-778E77747454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C38A42-F169-4F90-AAC9-778E77747454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
