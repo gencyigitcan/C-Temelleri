@@ -38,5 +38,10 @@ namespace Arac_Kullanimlari
         {
             listBox1.Items.Add(textBox2.Text);
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            listBox2.Items.Add(textBox3.Text + " " + textBox4.Text + " " + textBox5.Text + " " + textBox6.Text + " " + textBox7.Text + " " + textBox8.Text);
+        }
     }
 }
