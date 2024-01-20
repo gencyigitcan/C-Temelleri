@@ -45,5 +45,14 @@ namespace Arac_Kullanimi
 
             label2.Text = textBox1.Text;
         }
+
+        // Bölüm Sonu Ödevi 
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            label12.Text = textBox2.Text;
+            label14.Text = textBox3.Text;
+            label10.Text = textBox4.Text;
+        }
     }
 }

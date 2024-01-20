@@ -42,6 +42,19 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.button4 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -170,7 +183,7 @@
             // 
             this.button4.BackColor = System.Drawing.Color.DarkGray;
             this.button4.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.button4.Location = new System.Drawing.Point(16, 252);
+            this.button4.Location = new System.Drawing.Point(16, 258);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(172, 53);
             this.button4.TabIndex = 13;
@@ -182,11 +195,136 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label2.Location = new System.Drawing.Point(212, 210);
+            this.label2.Location = new System.Drawing.Point(20, 236);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(56, 23);
             this.label2.TabIndex = 14;
             this.label2.Text = "label2";
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label11.Location = new System.Drawing.Point(310, 201);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(101, 23);
+            this.label11.TabIndex = 19;
+            this.label11.Text = "Mesleğiniz :";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label13.Location = new System.Drawing.Point(318, 162);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(93, 23);
+            this.label13.TabIndex = 17;
+            this.label13.Text = "Soyadınız :";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label15.Location = new System.Drawing.Point(344, 126);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(67, 23);
+            this.label15.TabIndex = 15;
+            this.label15.Text = "Adınız :";
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.textBox2.Location = new System.Drawing.Point(309, 227);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(172, 26);
+            this.textBox2.TabIndex = 21;
+            // 
+            // textBox3
+            // 
+            this.textBox3.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.textBox3.Location = new System.Drawing.Point(309, 259);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(172, 26);
+            this.textBox3.TabIndex = 22;
+            // 
+            // textBox4
+            // 
+            this.textBox4.Font = new System.Drawing.Font("Georgia", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.textBox4.Location = new System.Drawing.Point(309, 291);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(172, 26);
+            this.textBox4.TabIndex = 23;
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label16.Location = new System.Drawing.Point(202, 291);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(101, 23);
+            this.label16.TabIndex = 26;
+            this.label16.Text = "Mesleğiniz :";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label17.Location = new System.Drawing.Point(210, 260);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(93, 23);
+            this.label17.TabIndex = 25;
+            this.label17.Text = "Soyadınız :";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label18.Location = new System.Drawing.Point(236, 229);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(67, 23);
+            this.label18.TabIndex = 24;
+            this.label18.Text = "Adınız :";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label12.Location = new System.Drawing.Point(416, 127);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(65, 23);
+            this.label12.TabIndex = 28;
+            this.label12.Text = "label12";
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label14.Location = new System.Drawing.Point(417, 162);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(65, 23);
+            this.label14.TabIndex = 29;
+            this.label14.Text = "label14";
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Font = new System.Drawing.Font("Corbel", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label10.Location = new System.Drawing.Point(416, 201);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(65, 23);
+            this.label10.TabIndex = 30;
+            this.label10.Text = "label10";
+            // 
+            // button5
+            // 
+            this.button5.Font = new System.Drawing.Font("Corbel", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.button5.Location = new System.Drawing.Point(194, 148);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(118, 53);
+            this.button5.TabIndex = 31;
+            this.button5.Text = "Sağa Yazdır";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
             // Form1
             // 
@@ -194,6 +332,19 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Silver;
             this.ClientSize = new System.Drawing.Size(494, 317);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label14);
+            this.Controls.Add(this.label12);
+            this.Controls.Add(this.label16);
+            this.Controls.Add(this.label17);
+            this.Controls.Add(this.label18);
+            this.Controls.Add(this.textBox4);
+            this.Controls.Add(this.textBox3);
+            this.Controls.Add(this.textBox2);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.label13);
+            this.Controls.Add(this.label15);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button4);
             this.Controls.Add(this.textBox1);
@@ -232,6 +383,19 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox textBox3;
+        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.Label label16;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label12;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Button button5;
     }
 }
 
