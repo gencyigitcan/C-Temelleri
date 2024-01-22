@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arac_Kullanimlari3", "Arac_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPanelProject", "LoginPanelProject\LoginPanelProject.csproj", "{10F46623-23DA-4E2A-B99D-ADD4DCBB2CDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ucus_Rezervasyon_Sistemi", "Ucus_Rezervasyon_Sistemi\Ucus_Rezervasyon_Sistemi.csproj", "{36CA50A3-B050-4AC6-864C-1D048B0900A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{10F46623-23DA-4E2A-B99D-ADD4DCBB2CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10F46623-23DA-4E2A-B99D-ADD4DCBB2CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10F46623-23DA-4E2A-B99D-ADD4DCBB2CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36CA50A3-B050-4AC6-864C-1D048B0900A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36CA50A3-B050-4AC6-864C-1D048B0900A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36CA50A3-B050-4AC6-864C-1D048B0900A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36CA50A3-B050-4AC6-864C-1D048B0900A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
